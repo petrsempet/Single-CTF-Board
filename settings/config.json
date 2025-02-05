@@ -1,0 +1,29 @@
+{
+    "info": {
+        "name": "Single CTF Board",
+        "hash": null
+    },
+    "tasks": [
+        {
+            "name": "Первое задание",
+            "description": "Многострочное\n\nОписание задания с поддержкой **Markdown**",
+            "connection": "http://192.168.1.2\nnc 192.168.1.2 34\nssh user@192.168.1.2",
+            "flag": "CTF{MY-FiR$t-t@SK}",
+            "flag_format": "CTF{...}"
+        },
+        {
+            "name": "Второе задание",
+            "description": "Многострочное\n\nОписание задания с поддержкой **Markdown**",
+            "connection": "http://192.168.1.2\nnc 192.168.1.2 34\nssh user@192.168.1.2",
+            "flag": "CTF{MY-FiR$t-t@SK}",
+            "flag_format": "CTF{...}"
+        },
+        {
+            "name": "Третье задание",
+            "description": "Многострочное\n\nОписание задания с поддержкой **Markdown**",
+            "connection": "http://192.168.1.2\nnc 192.168.1.2 34\nssh user@192.168.1.2",
+            "flag": "CTF{MY-FiR$t-t@SK}",
+            "flag_format": "CTF{...}"
+        }
+    ]
+}

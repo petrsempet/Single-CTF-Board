@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  single-ctf-board:
+    build: .
+    volumes:
+      - ./settings:/var/www/settings
+    ports:
+      - 888:80
